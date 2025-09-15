@@ -23,5 +23,4 @@ Integration with SQL databases for real-world applications.
 
 Web-based dashboard for live allocation updates.
 
-Automated email/SMS notifications to candidates.
 
